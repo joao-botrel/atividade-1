@@ -17,7 +17,7 @@
 <img src="https://dropsdejogos.uai.com.br/wp-content/uploads/sites/10/2021/09/reproducao-link-the-legend-of-zelda-divulgacao-scaled.jpg">
 
 
-# Trilha sonora
+# Trilha sonora 
 
 A trilha sonora do jogo é excepcional, e conta com diversas músicas extremamente conhecidas no mundo gamer. Como no próprio título do jogo, é mencionado uma das ferramentas mais importantes durante ele: a Ocarina do Tempo. Um instrumento capaz de realizar muitas coisas com sua música, com isso, é possível perceber que a música é um elemento muito importante no jogo. Segue algumas das mais icônicas músicas que o jogador ouve durante suas horas de gameplay: 
 
@@ -48,3 +48,4 @@ A trilha sonora do jogo é excepcional, e conta com diversas músicas extremamen
  <img src = "https://imagens.blogdaclara.net/img/68747470733a2f2f737461746963302e7468657468696e6773696d616765732e636f6d2f776f726470726573732f77702d63/6f6e74656e742f75706c6f6164732f323031392f30362f5a656c64612d4f636172696e612d6f662d54696d652d4c696e6b2d/47616e6f6e646f72662e6a70673f713d353026616d703b6669743d63726f7026616d703b773d37343026616d703b6470723d/312e35.jpeg">
  
 # Conclusão
+Para aqueles que jogaram, sabe a perfeição que o jogo é em todos os quesitos que ele se compromete em ser bom, e como vale a pena jogar e experienciar tudo que é possível fazer dentro do game.

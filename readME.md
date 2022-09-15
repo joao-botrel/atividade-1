@@ -19,6 +19,29 @@
 
 # Trilha sonora
 
+A trilha sonora do jogo é excepcional, e conta com diversas músicas extremamente conhecidas no mundo gamer. Como no próprio título do jogo, é mencionado uma das ferramentas mais importantes durante ele: a Ocarina do Tempo. Um instrumento capaz de realizar muitas coisas com sua música, com isso, é possível perceber que a música é um elemento muito importante no jogo. Segue algumas das mais icônicas músicas que o jogador ouve durante suas horas de gameplay: 
+
+
+## [TelaPrincipal](https://www.youtube.com/watch?v=CKA1zCwcYBE&ab_channel=Halo2playa)
+
+
+ ## [FairyFountain](https://www.youtube.com/watch?v=id0kbyKCG8c&ab_channel=VideoGamesMusic)
+
+
+ ## [Kokiri Forest](https://www.youtube.com/watch?v=aQ6Fq-LfDZQ&ab_channel=Halo2playa) 
+
+
+ ## [LostWoods](https://www.youtube.com/watch?v=Ljqe4Nj7nBA&ab_channel=Halo2playa)
+
+
+ ## [Sheik'sTheme](https://www.youtube.com/watch?v=KIyLfYZJvq0&ab_channel=VideoGamesMusic)
+
+
+ ## [SongOfStorms](https://www.youtube.com/watch?v=N3OZoErzJg0&ab_channel=Halo2playa)
+
+
+ ## [HyruleField](https://www.youtube.com/watch?v=uj97kISm1nc&ab_channel=Halo2playa)
+ 
 # História
 
 # Conclusão

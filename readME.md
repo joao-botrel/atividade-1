@@ -17,7 +17,7 @@
 <img src="https://dropsdejogos.uai.com.br/wp-content/uploads/sites/10/2021/09/reproducao-link-the-legend-of-zelda-divulgacao-scaled.jpg">
 
 
-# Trilha sonora 
+# Trilha sonora 🎶
 
 A trilha sonora do jogo é excepcional, e conta com diversas músicas extremamente conhecidas no mundo gamer. Como no próprio título do jogo, é mencionado uma das ferramentas mais importantes durante ele: a Ocarina do Tempo. Um instrumento capaz de realizar muitas coisas com sua música, com isso, é possível perceber que a música é um elemento muito importante no jogo. Segue algumas das mais icônicas músicas que o jogador ouve durante suas horas de gameplay: 
 
@@ -42,10 +42,10 @@ A trilha sonora do jogo é excepcional, e conta com diversas músicas extremamen
 
  ## [Hyrule Field](https://www.youtube.com/watch?v=uj97kISm1nc&ab_channel=Halo2playa)
  
-# História
+# História 📚
  O jogo conta sobre a história no mundo do Reino de Hyrule. O jogador controla o Link, um menino da floresta, que nasceu na Kokiri Forest, porém tem algo de diferente das demais crianças que ali residem, por não ter ganhado uma fada para acompanhá-lo quando nasceu. Entretanto, um dia, a entidade de autoridade máxima na floresta, a grande Deku Tree invoca Link e o dá uma missão muito importante. Ele explica que Hyrule está em grandes perigos e que um mal está prestes a surgir, e cabe a Link salvar o reino desse mal. Durante a história, o menino da floresta conhece a princesa desse reino, Zelda, e ela explica o que é necessário para que eles adquiram mais poder a fim de derrotar o que provavelmente causará o mal no reino, o líder do deserto Ganondorf. Durante a aventura, Link se encontra com todos povos de Hyrule, faz muitas nossas amizades, experiencia perdas entre muitas outras coisas. Apesar da história não ser profunda em vários aspectos, ela cumpre muito bem seu papel no jogo, além de não interferir nada negativamente na Gameplay em si, sempre conseguindo deixar o jogador bem livre para se aventurar. 
 
  <img src = "https://imagens.blogdaclara.net/img/68747470733a2f2f737461746963302e7468657468696e6773696d616765732e636f6d2f776f726470726573732f77702d63/6f6e74656e742f75706c6f6164732f323031392f30362f5a656c64612d4f636172696e612d6f662d54696d652d4c696e6b2d/47616e6f6e646f72662e6a70673f713d353026616d703b6669743d63726f7026616d703b773d37343026616d703b6470723d/312e35.jpeg">
  
-# Conclusão
+# Conclusão ⚔
 Para aqueles que jogaram, sabe a perfeição que o jogo é em todos os quesitos que ele se compromete em ser bom, e como vale a pena jogar e experienciar tudo que é possível fazer dentro do game.
